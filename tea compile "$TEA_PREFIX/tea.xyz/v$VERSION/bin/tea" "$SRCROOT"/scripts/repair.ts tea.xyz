@@ -1,0 +1,2 @@
+tea compile "$TEA_PREFIX/tea.xyz/v$VERSION/bin/tea"
+"$SRCROOT"/scripts/repair.ts tea.xyz
